@@ -1,0 +1,4 @@
+hi my name is foo
+Hello Rust
+foo
+Welcome
